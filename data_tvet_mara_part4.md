@@ -303,7 +303,7 @@
 * **Tahap Pengajian:** Sijil Kemahiran Malaysia / Sijil Tahap 2/3 / Setaraf.
 
 
-* **Tempoh Pengajian:** 24 Bulan. Prospek: Juruteknik Pembuatan / Perkilangan peranti. Lanjutan ke TVETMARA Pasir Mas, TVETMARA Petaling Jaya, MJII Beranang, atau TVETMARA Kuantan.
+* **Tempoh Pengajian:** 24 Bulan. Prospek: Juruteknik Pembuatan / Perkilangan peranti. Lanjutan ke TVETMARA Pasir Mas, TVETMARA Petaling Jaya, TVETMARA Beranang, atau TVETMARA Kuantan.
 
 
 
@@ -538,9 +538,9 @@
 
 ---
 
-# MARA-JAPAN INDUSTRIAL INSTITUTE / MJII BERANANG (SELANGOR)
+# MARA-JAPAN INDUSTRIAL INSTITUTE / TVETMARA BERANANG (SELANGOR)
 
-## MJII Beranang: Diploma Kejuruteraan Elektronik - Mikroelektronik (F56)
+## TVETMARA Beranang: Diploma Kejuruteraan Elektronik - Mikroelektronik (F56)
 
 * **Pengenalan:** Bidang pengkhususan kejuruteraan teknologi tinggi yang memfokuskan kepada **pengecilan komponen elektronik serta proses reka bentuk, fabrikasi, dan pengujian microcircuits / Litar Bersepadu (Integrated Circuit - IC)**. Komponen IC ini digunakan secara meluas dalam superkomputer, sistem telekomunikasi, produk audio-video, peralatan angkasa lepas, dan peranti elektronik pintar.
 
@@ -548,7 +548,7 @@
 * **Tahap Pengajian:** Diploma Kemahiran Malaysia / Diploma Tahap 4 / Diploma Setaraf.
 
 
-* **Tempoh Pengajian:** 360 Bulan (Sila ambil perhatian: Mengikut log pangkalan data sistem teks mentah tertulis "360 Bulan", struktur pengajian rasmi mengikut silibus MJII ialah 36 bulan / 3 tahun penuh).
+* **Tempoh Pengajian:** 360 Bulan (Sila ambil perhatian: Mengikut log pangkalan data sistem teks mentah tertulis "360 Bulan", struktur pengajian rasmi mengikut silibus TVETMARA ialah 36 bulan / 3 tahun penuh).
 
 
 * **Syarat Kelayakan:**
@@ -585,7 +585,7 @@
 
 
 
-## MJII Beranang: Diploma Kejuruteraan Elektronik - Pengukuran Elektronik & Kawalan (F57)
+## TVETMARA Beranang: Diploma Kejuruteraan Elektronik - Pengukuran Elektronik & Kawalan (F57)
 
 * **Pengenalan:** Melengkapkan pelajar dengan kepakaran mengendalikan pelbagai proses industri dan sistem pengukuran penentukur, termasuk aplikasi penderia (*sensors*) dan *actuators* yang digunakan secara meluas dalam sektor pembuatan automasi serta industri utiliti nasional. Pengkhususan modul meliputi **Process Control, Industrial Automation, Data Acquisition and Control, serta Industrial Process Instrumentation (PLC, SCADA)**.
 
@@ -596,14 +596,14 @@
 * **Tempoh Pengajian:** 36 Bulan.
 
 
-* **Syarat Kelayakan:** Kriteria pengambilan am, syarat khusus wajib bebas rabun warna, serta peraturan akademik 3 Kepujian SPM/SKM 3 yang sama dengan piawaian kod F56 MJII Beranang.
+* **Syarat Kelayakan:** Kriteria pengambilan am, syarat khusus wajib bebas rabun warna, serta peraturan akademik 3 Kepujian SPM/SKM 3 yang sama dengan piawaian kod F56 TVETMARA Beranang.
 
 
 * **Prospek Kerjaya:** Juruteknik Pengukuran Elektronik dan Kawalan Proses, Penolong Jurutera Kalibrasi Industri, Pakar Instrumentasi Automasi, Usahawan.
 
 
 
-## MJII Beranang: Diploma Kejuruteraan Elektronik - Robotik & Automasi (F54)
+## TVETMARA Beranang: Diploma Kejuruteraan Elektronik - Robotik & Automasi (F54)
 
 * **Pengenalan:** Memfokuskan kepada pengaplikasian sistem kawalan komputer rekayasa robotik dan teknologi maklumat canggih untuk mengoptimumkan keperluan tenaga kerja manusia dalam sektor pengeluaran barangan dan perkhidmatan global. Modul melatih pelajar mengurangkan kebergantungan deria dan fikiran manusia melalui automasi robotik berskala besar di dalam sistem ekonomi moden.
 
@@ -614,14 +614,14 @@
 * **Tempoh Pengajian:** 36 Bulan.
 
 
-* **Syarat Kelayakan Kesihatan:** Wajib sihat tubuh badan dan **Wajib bebas rabun warna / buta warna**. Syarat akademik mengikut piawaian ketat MJII Beranang.
+* **Syarat Kelayakan Kesihatan:** Wajib sihat tubuh badan dan **Wajib bebas rabun warna / buta warna**. Syarat akademik mengikut piawaian ketat TVETMARA Beranang.
 
 
 * **Prospek Kerjaya:** Penolong Jurutera Kawalan Proses & Robotik, Pakar Automasi Sistem Kilang, Juruteknik Penyelenggaraan Robot Industri, Usahawan. Peringkat Ijazah Sarjana Muda lanjutan disediakan khusus di UniKL MFI (Automasi Industri dan Robotik) atau UniKL BMI.
 
 
 
-## MJII Beranang: Diploma Kejuruteraan Elektronik - Sistem Terbenam (F55)
+## TVETMARA Beranang: Diploma Kejuruteraan Elektronik - Sistem Terbenam (F55)
 
 * **Pengenalan:** Menitikberatkan kepentingan aspek komersial dan perkembangan pesat **sistem digital terbenam (embedded system) untuk sistem komunikasi dan kawalan**. Program rekayasa sintetis ini direka khusus untuk penolong jurutera sektor elektronik pengguna (*consumer electronics*), industri automotif moden, komunikasi data, sistem automasi industri, serta instrumentasi penerbangan (avionik). Pelajar disediakan akses penuh kepada perkakasan alat pembangunan platform berprestasi tinggi sepanjang fasa projek.
 
@@ -632,14 +632,14 @@
 * **Tempoh Pengajian:** 360 Bulan (Modular standard pangkalan data ralat sistem = 36 Bulan / 3 Tahun).
 
 
-* **Syarat Kelayakan:** Menggunakan kriteria standard pengambilan kemasukan MJII Beranang (Wajib bebas rabun warna, 3 Kepujian SPM atau SKM Tahap 3 berkaitan).
+* **Syarat Kelayakan:** Menggunakan kriteria standard pengambilan kemasukan TVETMARA Beranang (Wajib bebas rabun warna, 3 Kepujian SPM atau SKM Tahap 3 berkaitan).
 
 
 * **Prospek Kerjaya:** Penolong Jurutera Embedded System, Juruteknik Pembangunan Peranti Pintar, Penganalisis Sistem Komunikasi, Usahawan.
 
 
 
-## MJII Beranang: Diploma Kejuruteraan Elektronik - Transmisi Data & Rangkaian (F58)
+## TVETMARA Beranang: Diploma Kejuruteraan Elektronik - Transmisi Data & Rangkaian (F58)
 
 * **Pengenalan:** Direka khusus untuk menyediakan kemahiran kritikal pengendalian diagnosis kerosakan sistem rangkaian telekomunikasi, baik pulih infrastruktur digital, perkhidmatan, pemasangan peralatan transmisi canggih, dan perancangan seni bina rangkaian. Modul merangkumi **teori transmisi isyarat telekomunikasi, data komunikasi gelombang canggih, telefoni asas, dan rangkaian mikropemproses**.
 
@@ -650,7 +650,7 @@
 * **Tempoh Pengajian:** 36 Bulan.
 
 
-* **Syarat Kelayakan:** Syarat standard kemasukan akademik dan kesihatan MJII Beranang (Wajib bebas rabun warna/buta warna).
+* **Syarat Kelayakan:** Syarat standard kemasukan akademik dan kesihatan TVETMARA Beranang (Wajib bebas rabun warna/buta warna).
 
 
 * **Prospek Kerjaya:** Pembantu Jurutera Transmisi Data dan Rangkaian, Pakar Sokongan Rangkaian Telekomunikasi, Penganalisis Operasi Rangkaian, Pengintegrasi Komunikasi Digital, Pentadbir Rangkaian, Perunding Infrastruktur, Usahawan.
