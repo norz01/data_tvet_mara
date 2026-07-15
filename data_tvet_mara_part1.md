@@ -1,6 +1,6 @@
-# IKM BINTULU (SARAWAK)
+# TVETMARA BINTULU (SARAWAK)
 
-## IKM Bintulu: Diploma Teknologi Kejuruteraan Pemasangan Elektrik (P67)
+## TVETMARA Bintulu: Diploma Teknologi Kejuruteraan Pemasangan Elektrik (P67)
 
 * **Pengenalan:** Menawarkan pembelajaran teori dan amali untuk mengendalikan operasi unit dan proses loji secara selamat, melatih pelajar mengesan/menyelesaikan masalah operasi loji, menggunakan simulasi serta loji sebenar.
 
@@ -51,7 +51,7 @@
 
 
 
-## IKM Bintulu: Diploma Teknologi Kejuruteraan Petroleum - Instrumentasi Dan Kawalan Loji (P68)
+## TVETMARA Bintulu: Diploma Teknologi Kejuruteraan Petroleum - Instrumentasi Dan Kawalan Loji (P68)
 
 * **Pengenalan:** Menyediakan pembelajaran komprehensif teori/amali dalam instrumentasi dan kawalan loji minyak & gas, merangkumi kaedah troubleshooting, tuning, calibration, serta penyelenggaraan sistem kawalan loji.
 
@@ -102,7 +102,7 @@
 
 
 
-## IKM Bintulu: Diploma Teknologi Kejuruteraan Petroleum - Operasi Loji (P63)
+## TVETMARA Bintulu: Diploma Teknologi Kejuruteraan Petroleum - Operasi Loji (P63)
 
 * **Pengenalan:** Pembelajaran teori dan amali untuk mengendalikan operasi unit loji minyak, gas, & petrokimia dengan selamat. Pelajar dilatih menggunakan parameter operasi, SOP, serta proses simulasi startup/shutdown loji.
 
@@ -113,7 +113,7 @@
 * **Tempoh Pengajian:** 36 Bulan.
 
 
-* **Syarat Kelayakan:** Sama seperti syarat kod P67/P68 IKM Bintulu (Warganegara, Bumiputera, Umur 17-45, Tiada Rabun Warna).
+* **Syarat Kelayakan:** Sama seperti syarat kod P67/P68 TVETMARA Bintulu (Warganegara, Bumiputera, Umur 17-45, Tiada Rabun Warna).
 
 
 * **SKM Khusus:** Lulus SKM Tahap 3 dalam Operasi Loji Elektrik/Mekanis (Minyak, Gas & Petrokimia), Operasi Loji Gas Tapak Pelupusan, atau Operasi Penyelenggaraan Industri.
@@ -128,7 +128,7 @@
 
 
 
-## IKM Bintulu: Sijil Operasi Fabrikasi Paip - Minyak, Gas & Petrokimia (OG-010-3:2011)
+## TVETMARA Bintulu: Sijil Operasi Fabrikasi Paip - Minyak, Gas & Petrokimia (OG-010-3:2011)
 
 * **Tahap Pengajian:** Sijil Kemahiran Malaysia / Sijil Tahap 3 / Setaraf.
 
@@ -152,7 +152,7 @@
 
 
 
-## IKM Bintulu: Sijil Operasi Fabrikasi Struktur Logam - Minyak, Gas & Petrokimia (OG-011-3:2011)
+## TVETMARA Bintulu: Sijil Operasi Fabrikasi Struktur Logam - Minyak, Gas & Petrokimia (OG-011-3:2011)
 
 * **Tahap Pengajian:** Sijil Kemahiran Malaysia / Sijil Tahap 3 / Setaraf.
 
@@ -173,7 +173,7 @@
 
 
 
-## IKM Bintulu: Sijil Teknologi Fabrikasi Struktur (P21)
+## TVETMARA Bintulu: Sijil Teknologi Fabrikasi Struktur (P21)
 
 * **Pengenalan:** Menawarkan pendedahan komprehensif dalam bidang kejuruteraan struktur dan amalan fabrikasi keluli, termasuk prinsip rekabentuk, kerja fabrikasi, dan penyelenggaraan.
 
@@ -196,11 +196,11 @@
 * **Prospek Kerjaya:** Pelukis Pelan (drafter) sektor minyak & gas, Pengimpal, Jurugegas, Juruteknik QA/QC awam/swasta, Usahawan.
 
 
-* **Peluang Lanjutan:** Diploma Teknologi Kejuruteraan Loji (Struktur Luar Pesisir) di KKTM Kemaman.
+* **Peluang Lanjutan:** Diploma Teknologi Kejuruteraan Loji (Struktur Luar Pesisir) di TVETMARA Kemaman.
 
 
 
-## IKM Bintulu: Sijil Teknologi Kejuruteraan Fabrikasi Perpaipan (P22)
+## TVETMARA Bintulu: Sijil Teknologi Kejuruteraan Fabrikasi Perpaipan (P22)
 
 * **Pengenalan:** Merangkumi komponen asas sistem perpaipan loji, spesifikasi, asas susun atur loji, kelengkapan perpaipan, prinsip rekabentuk, dan prosedur reka bentuk loji kompleks.
 
@@ -223,11 +223,11 @@
 * **Prospek Kerjaya:** Pelukis pelan, pemasang/pengimpal paip sektor minyak & gas, Jurugegas, Juruteknik QA/QC, Usahawan.
 
 
-* **Peluang Lanjutan:** Diploma Teknologi Kejuruteraan Loji (Perpaipan) di KKTM Kemaman.
+* **Peluang Lanjutan:** Diploma Teknologi Kejuruteraan Loji (Perpaipan) di TVETMARA Kemaman.
 
 
 
-## IKM Bintulu: Sijil Teknologi Kejuruteraan Pemasangan Elektrik (P23)
+## TVETMARA Bintulu: Sijil Teknologi Kejuruteraan Pemasangan Elektrik (P23)
 
 * **Pengenalan:** Menyediakan pelajar untuk kerjaya profesional dalam bidang reka bentuk, ujian, penyelenggaraan, dan pentauliahan berkaitan industri minyak dan gas.
 
@@ -250,15 +250,15 @@
 * **Prospek Kerjaya:** Juruteknik industri minyak & gas, Juruteknik awam/swasta, Usahawan.
 
 
-* **Peluang Lanjutan:** Diploma Teknologi Kejuruteraan Elektrik (Operasi Loji) di KKTM Kemaman atau Diploma di KKTM Pasir Mas.
+* **Peluang Lanjutan:** Diploma Teknologi Kejuruteraan Elektrik (Operasi Loji) di TVETMARA Kemaman atau Diploma di TVETMARA Pasir Mas.
 
 
 
 ---
 
-# IKM BESUT (TERENGGANU)
+# TVETMARA BESUT (TERENGGANU)
 
-## IKM Besut: Diploma Kompetensi Elektrik - Industri (E64)
+## TVETMARA Besut: Diploma Kompetensi Elektrik - Industri (E64)
 
 * **Pengenalan:** Diiktiraf oleh Suruhanjaya Tenaga (ST). Pelajar dianugerahkan Diploma Kompetensi Elektrik (Pendawai PW4) dan layak menduduki peperiksaan Kekompetenan Pendawai Tiga Fasa (PW3 atau PW4) oleh ST. Fokus kepada pendawaian, pengujian pepasangan, membaik pulih alatan, dan penyeliaan.
 
@@ -293,11 +293,11 @@
 * **Kemudahan:** Ditaja penuh oleh MARA, elaun sara diri RM300/bulan, dan hostel disediakan.
 
 
-* **Peluang Lanjutan:** Diploma Kompetensi Elektrik (Penjaga Jentera Voltan Rendah A1) di IKM.
+* **Peluang Lanjutan:** Diploma Kompetensi Elektrik (Penjaga Jentera Voltan Rendah A1) di TVETMARA.
 
 
 
-## IKM Besut: Diploma Kompetensi Kimpalan (I03)
+## TVETMARA Besut: Diploma Kompetensi Kimpalan (I03)
 
 * **Pengenalan:** Menawarkan latihan teori/amali merangkumi kawalan & jaminan kualiti, pemeriksaan visual (Visual Inspector - VI), penyeliaan, merancang serta menguji kerja kimpalan (DT & NDT) mengikut piawaian keselamatan.
 
@@ -333,7 +333,7 @@
 
 
 
-## IKM Besut: Diploma Teknologi Automotif (A62)
+## TVETMARA Besut: Diploma Teknologi Automotif (A62)
 
 * **Pengenalan:** Melahirkan tenaga kerja mahir dalam mendiagnosis, membaiki, menganalisis sistem teknologi automotif untuk menyokong jurutera pembuatan. Diterapkan unsur kepimpinan, pembelajaran sepanjang hayat, dan teknousahawan.
 
@@ -358,7 +358,7 @@
 3. **SVM:** Lulus dengan PNGK Akademik $\ge$ 2.00, Kepujian BM (Kod 1104), PNGK Vokasional $\ge$ 2.67, dan kompeten semua modul.
 
 
-4. **Sijil:** Lulus Sijil Kejuruteraan/Teknologi berkaitan dari IKM/ILKA/ILKS dengan CGPA $\ge$ 2.00.
+4. **Sijil:** Lulus Sijil Kejuruteraan/Teknologi berkaitan dari TVETMARA/ILKA/ILKS dengan CGPA $\ge$ 2.00.
 
 
 
@@ -372,7 +372,7 @@
 
 
 
-## IKM Besut: Diploma Teknologi Komputer - Komputasi Awan (F67)
+## TVETMARA Besut: Diploma Teknologi Komputer - Komputasi Awan (F67)
 
 * **Pengenalan:** Fokus kepakaran Perkomputeran Awan (Cloud Computing) bagi mengurus dan menyimpan data besar tanpa kos perkakasan tinggi. Pelajar dilatih dalam infrastruktur rangkaian komputer & fiber optik berteraskan silibus Cisco Academy, CompTIA, AWS, dan Microsoft.
 
@@ -397,7 +397,7 @@
 2. **SKM:** Lulus SKM Tahap 3 bidang berkaitan (Operasi Sistem Komputer / Perkhidmatan Rangkaian Komputer / Juruteknik Rangkaian).
 
 
-3. **SVM / Sijil Kejuruteraan:** Lulus Sijil berkaitan dari IKM/ILKA/ILKS dengan CGPA $\ge$ 2.50.
+3. **SVM / Sijil Kejuruteraan:** Lulus Sijil berkaitan dari TVETMARA/ILKA/ILKS dengan CGPA $\ge$ 2.50.
 
 
 
@@ -408,7 +408,7 @@
 
 
 
-## IKM Besut: Diploma Teknologi Penyejukan Dan Penyamanan Udara (S01)
+## TVETMARA Besut: Diploma Teknologi Penyejukan Dan Penyamanan Udara (S01)
 
 * **Pengenalan:** Menyediakan kebolehan praktikal & teori merangkumi reka bentuk sistem, pemasangan, penyelenggaraan elektrik, dan pengurusan projek HVAC. Menyediakan Sijil CSTP yang diiktiraf oleh Jabatan Alam Sekitar (JAS).
 
@@ -432,7 +432,7 @@
 
 
 
-## IKM Besut: Sijil Penyeliaan Pemasangan & Penyelenggaraan HVAC (ME-020-3:2012)
+## TVETMARA Besut: Sijil Penyeliaan Pemasangan & Penyelenggaraan HVAC (ME-020-3:2012)
 
 * **Tahap Pengajian:** Sijil Kemahiran Malaysia / Sijil Tahap 3 / Setaraf.
 
@@ -447,7 +447,7 @@
 
 
 
-## IKM Besut: Sijil Teknologi Kejuruteraan Elektrik - Domestik Dan Industri (E22)
+## TVETMARA Besut: Sijil Teknologi Kejuruteraan Elektrik - Domestik Dan Industri (E22)
 
 * **Pengenalan:** Latihan kemahiran teori dan amali meliputi penyeliaan, pendawaian, penyelenggaraan, dan pentauliahan peralatan elektrik. **Dianugerahkan Sijil Wireman Bertauliah (Kategori PW4) oleh Suruhanjaya Tenaga Malaysia**.
 
@@ -467,11 +467,11 @@
 * **Prospek Kerjaya:** Wireman PW4, Juruteknik sektor awam/swasta, Usahawan.
 
 
-* **Peluang Lanjutan:** Diploma Teknologi Kejuruteraan Elektrik (Kuasa) di KKTM Pasir Mas.
+* **Peluang Lanjutan:** Diploma Teknologi Kejuruteraan Elektrik (Kuasa) di TVETMARA Pasir Mas.
 
 
 
-## IKM Besut: Sijil Teknologi Kejuruteraan Mekanikal - Lukisan Rekabentuk (M23)
+## TVETMARA Besut: Sijil Teknologi Kejuruteraan Mekanikal - Lukisan Rekabentuk (M23)
 
 * **Pengenalan:** Melatih kemahiran asas lukisan teknik, geometri, dan kejuruteraan mekanikal secara konvensional serta perisian komputer (CAD) untuk menyediakan lukisan mesin, komponen, perkhidmatan M&E, dan asas perpaipan.
 
@@ -491,11 +491,11 @@
 * **Prospek Kerjaya:** Pelukis Pelan (Drafter), Mechanical Draughtsman, Juruteknik, Usahawan.
 
 
-* **Peluang Lanjutan:** Diploma di KKTM Pasir Mas, KKTM Kuantan, atau KKTM Balik Pulau.
+* **Peluang Lanjutan:** Diploma di TVETMARA Pasir Mas, TVETMARA Kuantan, atau TVETMARA Balik Pulau.
 
 
 
-## IKM Besut: Sijil Teknologi Kejuruteraan Penyamanan Udara Dan Penyejukan (N21)
+## TVETMARA Besut: Sijil Teknologi Kejuruteraan Penyamanan Udara Dan Penyejukan (N21)
 
 * **Pengenalan:** Kemahiran memasang, menyelenggara, membaik pulih penghawa dingin dan sistem penyejukan. Menyediakan Sijil CSTP daripada Jabatan Alam Sekitar (JAS).
 
@@ -512,15 +512,15 @@
 * **Akademik:** Lulus SPM dengan minimal dua (2) Kepujian (Gred C) dalam mana-mana subjek AND Lulus BM dan Sejarah. Atau lulus SKM Tahap 2 / SVM / Sijil Kejuruteraan berkaitan (CGPA $\ge$ 2.00).
 
 
-* **Peluang Lanjutan:** Diploma Teknologi Kejuruteraan PPU di IKM Johor Bahru, Sik, KL, Besut, Kota Kinabalu, atau UniKL.
+* **Peluang Lanjutan:** Diploma Teknologi Kejuruteraan PPU di TVETMARA Johor Bahru, Sik, KL, Besut, Kota Kinabalu, atau UniKL.
 
 
 
 ---
 
-# IKM BESERI (PERLIS)
+# TVETMARA BESERI (PERLIS)
 
-## IKM Beseri: Sijil Lanjutan Ahli Teknologi Elektrik Automotif (TP-310-5)
+## TVETMARA Beseri: Sijil Lanjutan Ahli Teknologi Elektrik Automotif (TP-310-5)
 
 * **Tahap Pengajian:** Diploma Lanjutan Kemahiran Malaysia / Diploma Lanjutan Tahap 5 / Setaraf.
 
@@ -538,7 +538,7 @@
 
 
 
-## IKM Beseri: Diploma Kompetensi Elektrik - Domestik & Industri (E63)
+## TVETMARA Beseri: Diploma Kompetensi Elektrik - Domestik & Industri (E63)
 
 * **Pengenalan:** Diiktiraf oleh Suruhanjaya Tenaga (ST). Melatih tenaga kerja separa profesional dalam pemasangan, penyelenggaraan, tiga fasa, sistem perlindungan litar, motor elektrik, dan pengujian sistem elektrik mengikut piawaian keselamatan ST.
 
@@ -573,11 +573,11 @@
 * **Kemudahan:** Yuran ditanggung penuh oleh MARA, bengkel moden, makmal interaktif, dan mendapat elaun sara diri bulanan.
 
 
-* **Peluang Lanjutan:** Diploma Kompetensi Elektrik (Penjaga Jentera Voltan Rendah A1) di IKM.
+* **Peluang Lanjutan:** Diploma Kompetensi Elektrik (Penjaga Jentera Voltan Rendah A1) di TVETMARA.
 
 
 
-## IKM Beseri: Diploma Kompetensi Elektrik - Industri (E64)
+## TVETMARA Beseri: Diploma Kompetensi Elektrik - Industri (E64)
 
 * **Pengenalan:** Khas untuk pemegang Sijil PW2. Menyediakan latihan praktikal membuat kerja pendawaian 3 fasa, menguji pepasangan, dan kelayakan menduduki peperiksaan ST untuk sekatan PW3 atau PW4.
 
@@ -588,17 +588,17 @@
 * **Tempoh Pengajian:** 18 Bulan.
 
 
-* **Syarat Kelayakan:** Warganegara, Bumiputera (Umur 18-45 tahun), tidak rabun warna. Memiliki Sijil Perakuan Kekompetenan Pendawaian Elektrik PW2 dari IKM/ILKA/ILKS.
+* **Syarat Kelayakan:** Warganegara, Bumiputera (Umur 18-45 tahun), tidak rabun warna. Memiliki Sijil Perakuan Kekompetenan Pendawaian Elektrik PW2 dari TVETMARA/ILKA/ILKS.
 
 
 * **Prospek Kerjaya:** Juruteknik industri pembuatan, Sistem Solar, perkhidmatan elektrik, Kontraktor Kelas C, Usahawan.
 
 
-* **Peluang Lanjutan:** Peningkatan tahap kompetensi Penjaga Jentera Elektrik A1 di IKM SPU, KL, Jasin, atau Sik. Peluang Ijazah Teknologi di UniKL atau MTUN (UniMAP, UMP, UTHM, UTeM).
+* **Peluang Lanjutan:** Peningkatan tahap kompetensi Penjaga Jentera Elektrik A1 di TVETMARA SPU, KL, Jasin, atau Sik. Peluang Ijazah Teknologi di UniKL atau MTUN (UniMAP, UMP, UTHM, UTeM).
 
 
 
-## IKM Beseri: Diploma Kompetensi Kimpalan (I03 / M24)
+## TVETMARA Beseri: Diploma Kompetensi Kimpalan (I03 / M24)
 
 * **Pengenalan:** Menawarkan kepakaran dalam kawalan/jaminan kualiti kimpalan, pemeriksaan visual inspector (VI), serta pengujian musnah/tanpa musnah (DT & NDT) untuk industri loji dan keselamatan.
 
@@ -616,7 +616,7 @@
 
 
 
-## IKM Beseri: Diploma Teknologi Automotif (A62)
+## TVETMARA Beseri: Diploma Teknologi Automotif (A62)
 
 * **Pengenalan:** Kemahiran praktikal mendiagnosis, membaiki, dan menganalisis sistem teknologi automotif untuk menyokong jurutera industri.
 
@@ -634,7 +634,7 @@
 
 
 
-## IKM Beseri: Diploma Teknologi Marin (K06)
+## TVETMARA Beseri: Diploma Teknologi Marin (K06)
 
 * **Pengenalan:** Menawarkan latihan penyelenggaraan dan baik pulih enjin jentera marin (petrol & diesel), sistem transmisi, elektrik & elektronik marin, sistem HVAC marin, serta kerja bengkel logam/kimpalan.
 
@@ -667,7 +667,7 @@
 
 
 
-## IKM Beseri: Diploma Teknologi Pengurusan Dan Rekabentuk Penyamanan Udara (S06 / ME-020-5:2012)
+## TVETMARA Beseri: Diploma Teknologi Pengurusan Dan Rekabentuk Penyamanan Udara (S06 / ME-020-5:2012)
 
 * **Pengenalan:** Reka bentuk sistem HVAC, pengiraan beban haba, pengurusan projek, kecekapan tenaga, dan pengurusan reka bentuk berasaskan NOSS Tahap 4 & 5. Menyediakan persijilan CSTP Jabatan Alam Sekitar (JAS).
 
@@ -685,7 +685,7 @@
 
 
 
-## IKM Beseri: Sijil Pengurusan Teknologi Kimpalan (MC-024-4:2012)
+## TVETMARA Beseri: Sijil Pengurusan Teknologi Kimpalan (MC-024-4:2012)
 
 * **Tahap Pengajian:** Diploma Kemahiran Malaysia / Diploma Tahap 4 / Setaraf.
 
@@ -697,7 +697,7 @@
 
 
 
-## IKM Beseri: Sijil Teknologi Kejuruteraan Automotif - Elektronik
+## TVETMARA Beseri: Sijil Teknologi Kejuruteraan Automotif - Elektronik
 
 * **Tahap Pengajian:** Sijil Kemahiran Malaysia / Sijil Tahap 3 / Setaraf.
 
@@ -708,11 +708,11 @@
 * **Prospek Kerjaya:** Juruteknik Automotif Elektronik, Usahawan.
 
 
-* **Peluang Lanjutan:** KKTM Pasir Mas / MJII.
+* **Peluang Lanjutan:** TVETMARA Pasir Mas / MJII.
 
 
 
-## IKM Beseri: Sijil Teknologi Kejuruteraan Elektrik - Domestik Dan Industri (E22)
+## TVETMARA Beseri: Sijil Teknologi Kejuruteraan Elektrik - Domestik Dan Industri (E22)
 
 * **Tahap Pengajian:** Sijil Kemahiran Malaysia / Sijil Tahap 3 / Setaraf.
 
@@ -726,15 +726,15 @@
 * **Prospek Kerjaya:** Wireman, Juruteknik Elektrik awam/swasta, Usahawan.
 
 
-* **Peluang Lanjutan:** Diploma Teknologi Kejuruteraan Elektrik (Kuasa) di KKTM Pasir Mas.
+* **Peluang Lanjutan:** Diploma Teknologi Kejuruteraan Elektrik (Kuasa) di TVETMARA Pasir Mas.
 
 
 
 ---
 
-# KKTM BALIK PULAU (PULAU PINANG)
+# TVETMARA BALIK PULAU (PULAU PINANG)
 
-## KKTM Balik Pulau: Diploma Teknologi Pembuatan (3 Tahun / 1.5 Tahun / TSYA) (M67)
+## TVETMARA Balik Pulau: Diploma Teknologi Pembuatan (3 Tahun / 1.5 Tahun / TSYA) (M67)
 
 * **Pengenalan:** Melatih pelajar menukar bahan mentah kepada produk siap melalui proses pemesinan konvensional, CNC, pemotongan laser, pemotongan dawai EDM, dan die sinking untuk memacu industri jentera, pesawat, dan automotif.
 
@@ -755,7 +755,7 @@
 
 
 
-## KKTM Balik Pulau: Diploma Teknologi Kejuruteraan Mekatronik Industri (MQA/FA7920)
+## TVETMARA Balik Pulau: Diploma Teknologi Kejuruteraan Mekatronik Industri (MQA/FA7920)
 
 * **Pengenalan:** Menawarkan latihan bersepadu merangkumi bidang Elektronik, Mekanikal, dan Komputer. Fokus kepada automasi industri dan robotik menggunakan modul CAD, PLC, Programming, Mikropengawal, Pneumatik, Hidraulik, dan Reka Bentuk Sistem Mekatronik.
 
@@ -781,7 +781,7 @@
 
 
 
-## KKTM Balik Pulau: Diploma Teknologi Kejuruteraan Pembuatan - Acuan Suntikan Plastik (M64 / MQA/FA7918)
+## TVETMARA Balik Pulau: Diploma Teknologi Kejuruteraan Pembuatan - Acuan Suntikan Plastik (M64 / MQA/FA7918)
 
 * **Pengenalan:** Melatih pelajar merancang, merekabentuk, memfabrikasi, memasang, dan menyelenggara acuan suntikan plastik. Menggunakan perisian analisa reka bentuk produk terkini seperti Moldflow dan Pro-Engineer serta teknologi pemotongan berketepatan tinggi CAD/CAM CNC.
 
@@ -802,7 +802,7 @@
 
 
 
-## KKTM Balik Pulau: Diploma Teknologi Kejuruteraan Pembuatan - Acuan Tekan / Tools and Dies (M63 / MQA/FA7921)
+## TVETMARA Balik Pulau: Diploma Teknologi Kejuruteraan Pembuatan - Acuan Tekan / Tools and Dies (M63 / MQA/FA7921)
 
 * **Pengenalan:** Fokus kepada reka bentuk, pembuatan, dan penyelenggaraan acuan tekan (press tools) menggunakan mesin penekan, mesin CNC berteknologi tinggi, kerja logam, dan AutoCAD untuk menyokong sistem pengeluaran peralatan automatik termaju.
 
@@ -823,7 +823,7 @@
 
 
 
-## KKTM Balik Pulau: Diploma Teknologi Kejuruteraan Pembuatan - Rekabentuk Produk (M65 / MQA/FA7919)
+## TVETMARA Balik Pulau: Diploma Teknologi Kejuruteraan Pembuatan - Rekabentuk Produk (M65 / MQA/FA7919)
 
 * **Pengenalan:** Pendedahan kepada penghasilan produk dari peringkat konsep awal, penilaian reka bentuk produk pengguna, hingga proses evaluasi prototaip. Diterapkan kemahiran merancang, pengurusan masa, dan penulisan laporan teknikal.
 
@@ -834,7 +834,7 @@
 * **Tempoh Pengajian:** 36 Bulan.
 
 
-* **Syarat Kelayakan:** Sama seperti piawaian kemasukan kejuruteraan pembuatan lain di KKTM Balik Pulau (Matematik minimal D + remedial, Sains/Teknikal C, BM C, tiada rabun warna).
+* **Syarat Kelayakan:** Sama seperti piawaian kemasukan kejuruteraan pembuatan lain di TVETMARA Balik Pulau (Matematik minimal D + remedial, Sains/Teknikal C, BM C, tiada rabun warna).
 
 
 * **Prospek Kerjaya:** Penolong Jurutera, Perekabentuk Produk, Pengaturcara CNC, Eksekutif Pengeluaran/QA, Usahawan.
@@ -844,7 +844,7 @@
 
 
 
-## KKTM Balik Pulau: Sijil Reka Bentuk Acuan Suntikan Plastik
+## TVETMARA Balik Pulau: Sijil Reka Bentuk Acuan Suntikan Plastik
 
 * **Tahap Pengajian:** Diploma Kemahiran Malaysia / Diploma Tahap 4 / Setaraf.
 
@@ -852,15 +852,15 @@
 * **Tempoh Pengajian:** 36 Bulan.
 
 
-* **Status Data:** Butiran terperinci syarat kemasukan dan kerjaya menggunakan modular asas fakulti pembuatan acuan KKTM Balik Pulau.
+* **Status Data:** Butiran terperinci syarat kemasukan dan kerjaya menggunakan modular asas fakulti pembuatan acuan TVETMARA Balik Pulau.
 
 
 
 ---
 
-# IKM ALOR SETAR (KEDAH)
+# TVETMARA ALOR SETAR (KEDAH)
 
-## IKM Alor Setar: Diploma Teknousahawan Rekabentuk Dan Pengeluaran Fabrik (U02)
+## TVETMARA Alor Setar: Diploma Teknousahawan Rekabentuk Dan Pengeluaran Fabrik (U02)
 
 * **Pengenalan:** Ditawarkan di bawah kluster "Seni & Rekabentuk". Melahirkan usahawan bidang fabrik bermula daripada reka bentuk cetakan sehingga pengeluaran produk akhir seperti t-shirt melalui gabungan teori, keusahawanan, dan amali.
 
@@ -879,7 +879,7 @@
 
 
 * **Akademik (Pilih salah satu):**
-1. **Sijil:** Lulus Sijil bidang berkaitan dari IKM/GIATMARA/ILKA/IPTS dengan minimum CGPA 0.00.
+1. **Sijil:** Lulus Sijil bidang berkaitan dari TVETMARA/GIATMARA/ILKA/IPTS dengan minimum CGPA 0.00.
 
 
 2. **SKM:** Lulus SKM Tahap 2 bidang berkaitan (Pemeriksaan Kawalan Kualiti Pakaian / Pembuatan Pola Pakaian).
@@ -899,7 +899,7 @@
 
 
 
-## IKM Alor Setar: Diploma Teknousahawan Rekabentuk Dan Pengeluaran Perabot (U03)
+## TVETMARA Alor Setar: Diploma Teknousahawan Rekabentuk Dan Pengeluaran Perabot (U03)
 
 * **Pengenalan:** Program berteraskan *Technopreneur Base Education* (TBE). Menekankan pendekatan "Usahawan Perabot" merangkumi aspek teknikal pembuatan perabot, pengurusan perniagaan, pemasaran, dan kewangan. Struktur pengajian: **80% Amali dan 24% Teori**.
 
@@ -922,7 +922,7 @@
 
 
 
-## IKM Alor Setar: Sijil Senibina (T01)
+## TVETMARA Alor Setar: Sijil Senibina (T01)
 
 * **Pengenalan:** Merangkumi kaedah dan teknik penyediaan lukisan senibina standard seperti pelan bangunan, perkhidmatan bangunan, siap bina (as-built), lukisan elektrik, saluran paip, perspektif, serta pembentukan model bangunan menggunakan kaedah konvensional dan perisian CAD.
 
@@ -936,11 +936,11 @@
 * **Prospek Kerjaya:** Pelukis Pelan (Draughtsman), Penyelia Tapak Pembinaan, CAD Person sektor awam/swasta, Usahawan.
 
 
-* **Peluang Lanjutan:** Peringkat Diploma Senibina di KKTM Pasir Mas, UTM, Politeknik, atau IUCT.
+* **Peluang Lanjutan:** Peringkat Diploma Senibina di TVETMARA Pasir Mas, UTM, Politeknik, atau IUCT.
 
 
 
-## IKM Alor Setar: Sijil Teknologi Kejuruteraan Bangunan (C21)
+## TVETMARA Alor Setar: Sijil Teknologi Kejuruteraan Bangunan (C21)
 
 * **Pengenalan:** Menawarkan latihan teori dan amali meliputi kerja menerap bata/blok, konkrit, ornamental, melepa (plastering), memapak (paving), pemasangan jubin lantai/dinding, penganggaran kos, interpretasi pelan, dan pengurusan kontrak.
 
@@ -954,11 +954,11 @@
 * **Prospek Kerjaya:** Kontraktor Bangunan, Juruteknik Bangunan sektor awam/swasta, Usahawan Teknikal.
 
 
-* **Peluang Lanjutan:** Diploma Teknologi Kejuruteraan Bangunan di KKTM Pasir Mas atau Diploma Teknologi Pembinaan di KKTM Sri Gading.
+* **Peluang Lanjutan:** Diploma Teknologi Kejuruteraan Bangunan di TVETMARA Pasir Mas atau Diploma Teknologi Pembinaan di TVETMARA Sri Gading.
 
 
 
-## IKM Alor Setar: Sijil Teknologi Kejuruteraan Lukisan Struktur (C22)
+## TVETMARA Alor Setar: Sijil Teknologi Kejuruteraan Lukisan Struktur (C22)
 
 * **Pengenalan:** Latihan teori dan amali dalam penyediaan lukisan struktur kejuruteraan bagi menyokong industri binaan, diselitkan dengan modul keusahawanan teknikal.
 
@@ -972,4 +972,4 @@
 * **Prospek Kerjaya:** CAD Person, Draughtsman, Juruteknik awam/swasta, Usahawan.
 
 
-* **Peluang Lanjutan:** Diploma Teknologi Pembinaan (KKTM Sri Gading), Diploma Teknologi Kejuruteraan Bangunan (KKTM Pasir Mas), atau Diploma Senibina (KKTM Pasir Mas).
+* **Peluang Lanjutan:** Diploma Teknologi Pembinaan (TVETMARA Sri Gading), Diploma Teknologi Kejuruteraan Bangunan (TVETMARA Pasir Mas), atau Diploma Senibina (TVETMARA Pasir Mas).
